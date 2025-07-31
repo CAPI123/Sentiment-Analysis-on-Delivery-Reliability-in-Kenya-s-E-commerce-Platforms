@@ -1,3 +1,3 @@
 ### Sentiment
 ## Analysis
-** rt*
+** rt**
